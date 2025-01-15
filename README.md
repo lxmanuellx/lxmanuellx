@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-👨‍💻 Estudiante de Desarrollo de Aplicaciones Web.<br>🎨 Apasionado por el diseño interactivo y el Front-End.<br>💡 Creativo, proactivo y con ganas de aprender siempre.<br>🌐 Me encanta trabajar con HTML, CSS y JavaScript.<br>🐘 También me gusta crear lógica  en PHP, PL/SQL y Java.<br>
+👨‍💻 Estudiante de Desarrollo de Aplicaciones Web.<br>🎨 Apasionado por el diseño web  (Front-End).<br>💡 Creativo, proactivo y con ganas de aprender siempre.<br>🌐 Me encanta trabajar con HTML, CSS y JavaScript.<br>🐘 También me gusta crear lógica  en PHP, PL/SQL y Java.<br>
 
 
 ## 🌐 Redes Sociales:
